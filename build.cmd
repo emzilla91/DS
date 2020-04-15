@@ -1,0 +1,1 @@
+clang-cl.exe -O2 /permissive- /W4 kod.cpp Cube.cpp MonteCarloSolver.cpp -o kod.exe /I "C:\Program Files (x86)\Microsoft SDKs\MPI\Include" /link "C:\Program Files (x86)\Microsoft SDKs\MPI\Lib\x64\msmpi.lib"

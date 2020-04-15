@@ -1,0 +1,1 @@
+clang-cl.exe -Zi /permissive- /W4 kod.cpp Cube.cpp MonteCarloSolver.cpp -o kod.exe

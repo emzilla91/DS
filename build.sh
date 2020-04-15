@@ -1,0 +1,1 @@
+mpicxx -O3 -Wpedantic -Wall kod.cpp Cube.cpp MonteCarloSolver.cpp SolutionReplay.cpp -o kocka -lmpi
